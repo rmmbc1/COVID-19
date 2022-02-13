@@ -1,6 +1,7 @@
 --******************************Summary*******************************
 -- The following is a SQL exploration project about COVID 19
 -- We explore the COVID19 dataset and create breakdowns based on cases, deaths and vaccinations
+-- We also will use these queries for a Tableau project. 
 
 -- we also explore the following SQL techiques:
 -- Clauses:
